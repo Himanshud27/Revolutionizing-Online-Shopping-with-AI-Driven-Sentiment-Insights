@@ -1,0 +1,1 @@
+Developed a machine learning model for sentiment analysis using a dataset of 3 million Amazon reviews. Utilized Logistic Regression, SVM, and Naive Bayes to classify feedback as positive or negative. This analysis provided businesses with actionable insights to enhance customer service and product offerings
